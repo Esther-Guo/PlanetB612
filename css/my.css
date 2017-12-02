@@ -2,6 +2,9 @@
     background-color: darkcyan;
     border-color: darkcyan
 }
+.btn-my:active,.btn-my:focus{
+    box-shadow:none !important;
+}
 .haha {
     display: flex;
     align-items: center;
