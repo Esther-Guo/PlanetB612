@@ -56,6 +56,10 @@ h1 {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
+.bg-cover {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
 hr.divider {
   border-color: #292b2c;
   max-width: 250px;
